@@ -1,2 +1,2 @@
 # alu-web-development
-ALU web development
+ALU (African Leadership University) [Academics] web development
